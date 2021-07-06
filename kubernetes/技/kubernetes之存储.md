@@ -1,6 +1,11 @@
 # 存储
 
-[TOC]
+- [存储](#存储)
+  - [一、卷（Volume）](#一卷volume)
+    - [为什么需要卷？](#为什么需要卷)
+    - [卷的核心是什么？](#卷的核心是什么)
+    - [Docker与Kubernetes中的卷存在什么异同?](#docker与kubernetes中的卷存在什么异同)
+  - [二、持久卷（Persistent Volume）](#二持久卷persistent-volume)
 
 ## 一、卷（Volume）
 
