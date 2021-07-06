@@ -6,4 +6,4 @@
 
 ### 步骤二 快捷键CTRL(CMD)+SHIFT+P，输入Markdown All in One: Create Table of Contents回车即可
 
-![](https://github.com/FollowYourHeartAndDoNotHesitate/Technology/commit/fd02e389011eb49be184c1884c8e6714a94fd2f6)
+![](https://github.com/FollowYourHeartAndDoNotHesitate/Technology/blob/main/%E5%9B%BE%E5%BA%8A/%E7%94%9F%E6%88%90github%E5%8F%AF%E7%94%A8%E7%9A%84markdown%E7%9B%AE%E5%BD%95.png?raw=true)
